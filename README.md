@@ -7,7 +7,8 @@ ________________________________________________________________________________
 Release note:
 
 -------------
-1.6 i 1.7
+Codi pantalla --> 1.6 
+Codi arduino  --> 1.7
 ------------
 - Inclou una interfase per la lectura dels valors dels sensors
 - Es pot actualitzar l'hora real
